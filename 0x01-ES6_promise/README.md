@@ -1,4 +1,6 @@
-nced tasks of this project. Have fun!
+advance
+
+ tasks of this project. Have fun!
 0x01. ES6 Promises
 JavaScript
 ES6
